@@ -7,3 +7,5 @@
 [bubbleSort](https://github.com/haileykim1/DataStructure/blob/master/DataStructure/bubbleSort.cpp)
 
 [insertionSort](https://github.com/haileykim1/DataStructure/blob/master/DataStructure/insertionSort.cpp)
+
+[quickSort](https://github.com/haileykim1/DataStructure/blob/master/DataStructure/quickSort.cpp)
